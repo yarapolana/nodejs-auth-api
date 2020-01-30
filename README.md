@@ -56,7 +56,7 @@ yarn dev
 
 ---
 
-<h4> Check out the fullstack version of this challenge <a href="https://github.com/yarapolana/Meetapp">here</a>.</h4>
+<h4> Check out the continuation of this challenge <a href="https://github.com/yarapolana/nodejs-auth-api-v2">here</a>.</h4>
 
 ---
 ### License:
